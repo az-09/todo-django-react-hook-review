@@ -210,4 +210,6 @@ Reference:
     https://www.youtube.com/watch?v=W9BjUoot2Eo
 
     https://github.com/divanov11/React-Django-To-Do-App
+    
+    https://medium.com/thecodefountain/fetch-api-data-using-useeffect-react-hook-465809ca12c6
 
