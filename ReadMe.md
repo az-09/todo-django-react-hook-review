@@ -212,4 +212,8 @@ Reference:
     https://github.com/divanov11/React-Django-To-Do-App
     
     https://medium.com/thecodefountain/fetch-api-data-using-useeffect-react-hook-465809ca12c6
+    
+    https://github.com/az-09/crud-app-in-react-with-hooks/tree/master/src
+    
+    https://www.taniarascia.com/crud-app-in-react-with-hooks/
 
